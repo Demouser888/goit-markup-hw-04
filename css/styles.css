@@ -204,7 +204,7 @@
   /* ============= HERO ============= */
 
 
-  .overlay {
+  .hero {
     
     height: 600px;
     max-width: 1600px;
@@ -409,14 +409,8 @@
 
 
   /*==============CLIENTS===============*/
-  .clients-container {
-    /*outline: 1px solid red;*/
-    width: 1170px;
-    height: 184px;
-    margin: 0px auto;
-  }
-
-  .clients-container h2 {
+ 
+  .container h2 {
     margin-bottom: 50px;
   }
   .clients-list {
